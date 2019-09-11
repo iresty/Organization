@@ -16,8 +16,8 @@ As a member of PMC, you must contribute and maintain the features or modules, an
 - For now, only @moonming has right to remove people from PMC or Committer Team.
 
 The current Project Management Committee is as follows (in chronological order):
-- Ming Wen @moonming
-- Yuansheng Wang @membphis
+- Ming Wen [@moonming](https://github.com/moonming)
+- Yuansheng Wang [@membphis](https://github.com/membphis)
 
 ### Committer Team
 As a member of Committer Team, you must contribute and maintain the features or modules. Because of that, you have following rights:
@@ -26,7 +26,8 @@ As a member of Committer Team, you must contribute and maintain the features or 
 - Vote right for promoting Committer to PMC.
 
 The current Project Management Committee is as follows (in alphabeta order):
-- Junxu Chen @nic-chen
+- Junxu Chen [@nic-chen](https://github.com/nic-chen)
+- Zhiyuan Ju [@juzhiyuan](https://github.com/juzhiyuan)
 
 ### Voting
 In various situations the APISIX shall hold a vote. These votes can happen on the phone, email, or via a voting service, when appropriate. Voters can either respond "agree, yes, +1", "disagree, no, -1", or "abstain". A vote passes with two-thirds vote of votes cast. An abstain vote equals not voting at all.
