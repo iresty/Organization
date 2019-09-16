@@ -27,6 +27,7 @@ As a member of Committer Team, you must contribute and maintain the features or 
 
 The current Project Management Committee is as follows (in alphabeta order):
 - Junxu Chen [@nic-chen](https://github.com/nic-chen)
+- Yong Li [@chnliyong](https://github.com/chnliyong)
 - Zhiyuan Ju [@juzhiyuan](https://github.com/juzhiyuan)
 
 ### Voting
