@@ -14,6 +14,7 @@ As a member of Committer Team, you must contribute and maintain the features or 
 The current Committer Team members is as follows (in alphabeta order):
 - Chunlin Wu [@linsir](https://github.com/linsir)
 - Hui Li[@Miss-you](https://github.com/Miss-you)
+- Jinchao Shuai [@shuaijinchao](https://github.com/shuaijinchao)
 - Junxu Chen [@nic-chen](https://github.com/nic-chen)
 - Ke Tang [@supermario1990](https://github.com/supermario1990)
 - Lang Wang[@totemofwolf](https://github.com/totemofwolf)
